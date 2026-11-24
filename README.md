@@ -1,14 +1,13 @@
 # Analyseur de Balises H1-H6 et Hierarchie Semantique
 
 [![Analyseur Balises H1-H6](https://img.shields.io/badge/TAVARDT-Heading%20Hierarchy-5b3cf5.svg)](https://tools.tavardt.com/fr/analyseur-balises-h1-h6/)
-[![Juridiction](https://img.shields.io/badge/Juridiction-France-00C853.svg)](https://ag.tavardt.com/fr/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audit de la structure de titres HTML5, unicite du titre principal H1 et respect des referentiels d accessibilite.
 
-Developpe et maintenu par l equipe d accessibilite et semantique de **[TAVARDT France](https://ag.tavardt.com/fr/)**.
+Developpe et maintenu par l equipe d accessibilite et semantique de **TAVARDT France**.
 
----
+***
 
 ## Capacites d Audit des Balises H1-H6
 
@@ -18,7 +17,7 @@ Developpe et maintenu par l equipe d accessibilite et semantique de **[TAVARDT F
 * **Plan Semantique du Document**: Restitution visuelle et arborescente du plan de titrage HTML5.
 * **Score de Conformite Semantique**: Evaluation sur 100 avec priorisation des corrections RGAA et W3C WCAG.
 
----
+***
 
 ## Installation et Utilisation
 
@@ -33,20 +32,20 @@ python heading_hierarchy_validator.py https://entreprise.fr
 Sortie detaillee au format JSON:
 
 ```bash
-python heading_hierarchy_validator.py https://entreprise.fr --json
+python heading_hierarchy_validator.py https://entreprise.fr -json
 ```
 
----
+***
 
 ## Outil d Audit en Ligne
 
 Testez la structure semantique de vos pages sur notre plateforme officielle:
 
-* **[Analyseur de Balises H1-H6 Officiel](https://tools.tavardt.com/fr/analyseur-balises-h1-h6/)**
+* **Analyseur de Balises H1-H6 Officiel**
 * **[Portail TAVARDT France](https://ag.tavardt.com/fr/)**
 
----
+***
 
 ## Conseil et Accompagnement Technique
 
-Pour une mise en conformite semantique avec Referentiel General d Amelioration de l Accessibilite et W3C WCAG, contactez **[TAVARDT France](https://ag.tavardt.com/fr/contact/)**.
+Pour une mise en conformite semantique avec Referentiel General d Amelioration de l Accessibilite et W3C WCAG, contactez **TAVARDT France**.
