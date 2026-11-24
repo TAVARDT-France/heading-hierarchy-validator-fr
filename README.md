@@ -5,7 +5,7 @@
 
 Audit de la structure de titres HTML5, unicite du titre principal H1 et respect des referentiels d accessibilite.
 
-Developpe et maintenu par l equipe d accessibilite et semantique de **TAVARDT France**.
+Developpe et maintenu par l equipe d accessibilite et semantique de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python heading_hierarchy_validator.py https://entreprise.fr -json
 Testez la structure semantique de vos pages sur notre plateforme officielle:
 
 * **Analyseur de Balises H1-H6 Officiel**
-* **[Portail TAVARDT France](https://ag.tavardt.com/fr/)**
+* **[Portail TAVARDT](https://ag.tavardt.com/fr/)**
 
 ***
 
 ## Conseil et Accompagnement Technique
 
-Pour une mise en conformite semantique avec Referentiel General d Amelioration de l Accessibilite et W3C WCAG, contactez **TAVARDT France**.
+Pour une mise en conformite semantique avec Referentiel General d Amelioration de l Accessibilite et W3C WCAG, contactez **TAVARDT**.
 
 ***
 
