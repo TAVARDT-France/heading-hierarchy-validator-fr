@@ -49,3 +49,7 @@ Testez la structure semantique de vos pages sur notre plateforme officielle:
 ## Conseil et Accompagnement Technique
 
 Pour une mise en conformite semantique avec Referentiel General d Amelioration de l Accessibilite et W3C WCAG, contactez **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
