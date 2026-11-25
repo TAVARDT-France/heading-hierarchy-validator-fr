@@ -2,6 +2,7 @@
 
 [![Analyseur Balises H1-H6](https://img.shields.io/badge/TAVARDT-Heading%20Hierarchy-5b3cf5.svg)](https://tools.tavardt.com/fr/analyseur-balises-h1-h6/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audit de la structure de titres HTML5, unicite du titre principal H1 et respect des referentiels d accessibilite.
 
@@ -57,6 +58,11 @@ Pour une mise en conformite semantique avec Referentiel General d Amelioration d
 * **Portail Entreprise:** https://ag.tavardt.com/fr/
 * **Suite de Diagnostic:** https://tools.tavardt.com/fr/
 * **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
+### Licence
+Distribué sous la licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ***
 
